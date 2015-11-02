@@ -15,8 +15,6 @@ jQuery Date Range Picker is a jQuery plugin that allows user to select a date ra
 
 ##[Demo](http://longbill.github.io/jquery-date-range-picker/)
 
-![screenshot](https://raw.github.com/longbill/jquery-date-range-picker/master/preview.jpg)
-
 ##what's new in 0.0.8##
 
 * support week numbers
@@ -43,4 +41,4 @@ jQuery Date Range Picker is a jQuery plugin that allows user to select a date ra
 
 
 ###LICENSE###
-This date range picker plugin is under MIT LICENSE
+This date range picker module is under MIT LICENSE
