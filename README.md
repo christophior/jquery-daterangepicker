@@ -1,6 +1,7 @@
 # JQuery date range picker NPM module
 
 ## NPM module of [longbill's date range picker plugin](https://github.com/longbill/jquery-date-range-picker)
+[![NPM](https://nodei.co/npm/jquery-daterangepicker.png)](https://www.npmjs.com/package/jquery-daterangepicker)
 
 
 ### [Demo](http://longbill.github.io/jquery-date-range-picker/)
