@@ -1,9 +1,9 @@
 # JQuery date range picker NPM module
 
-## (forked off of [longbill's date range picker plugin](https://github.com/longbill/jquery-date-range-picker))
+## NPM module of [longbill's date range picker plugin](https://github.com/longbill/jquery-date-range-picker)
 
 
-## [Demo](http://longbill.github.io/jquery-date-range-picker/)
+### [Demo](http://longbill.github.io/jquery-date-range-picker/)
 
 
 ## Configuration
