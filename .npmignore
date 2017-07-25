@@ -22,8 +22,8 @@ Gemfile
 Gemfile.lock
 
 /lib/*.txt
-/lib/*.min.js
 /lib/demo.js
 /lib/*.jpg
 /lib/*.MD
 /lib/*.html
+/lib/src
