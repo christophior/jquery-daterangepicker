@@ -1,7 +1,7 @@
 {
   "name": "jquery-daterangepicker",
   "main": "lib/dist/jquery.daterangepicker.min.js",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "homepage": "https://github.com/christophior/jquery-daterangepicker",
   "author": "Chris Villarreal <chrisvillarreal1018@gmail.com>",
   "description": "jQuery Date Range Picker is a jQuery plugin that allows user to select a date range.",
